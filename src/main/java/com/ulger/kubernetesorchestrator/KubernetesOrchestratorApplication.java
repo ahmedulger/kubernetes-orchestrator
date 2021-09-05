@@ -9,5 +9,4 @@ public class KubernetesOrchestratorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KubernetesOrchestratorApplication.class, args);
 	}
-
 }
